@@ -39,7 +39,7 @@ macOS Ventura on the HP EliteBook x360 1030 G3. Built from scratch using Dortani
 | Battery management | Working |
 | Audio (speakers + microphone) | Working |
 | CPU power management | Working |
-| Tablet mode (bending beyond 180°) | Not working |
+| Tablet mode (bending beyond 180°) | Working |
 
 ## What Does Not Work
 
